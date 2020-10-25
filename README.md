@@ -1,7 +1,10 @@
 # JD
 2020京东JD双11全民营业瓜分10亿自动领金币辅助 无后门无推广原生Auto.js纯净版
 
+[**Github Taobao**](https://github.com/roceys/Taobao)
+
 OSChina Gitee 同步仓库 [**JD**](https://gitee.com/roceys/JD)
+OSChina Gitee 同步仓库 [**Taobao**](https://gitee.com/roceys/Taobao)
 
 **请勿使用未知的app，基本上都有引流/广告/木马等植入，严重可造成用户隐私数据泄露。**
 
