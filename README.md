@@ -15,6 +15,8 @@ OSChina Gitee 同步仓库 [**Taobao**](https://gitee.com/roceys/Taobao)
 - 下载 **JD1111-2020.js** 文件，通过Autojs APP导入脚本即可使用
     - Github单独js文件下载[https://github.com/roceys/JD/raw/master/JD1111-2020.js](https://github.com/roceys/JD/raw/master/JD1111-2020.js) (需要科学上网)
     - Gitee单独js文件下载[https://gitee.com/roceys/JD/raw/master/JD1111-2020.js](https://gitee.com/roceys/JD/raw/master/JD1111-2020.js) （国内高速下载）
+    - 如果不方便或不会下载可以直接打开链接**全选**复制，再到Auto.js中新建文件**粘贴**即可
+
 
 <br>
 
@@ -26,6 +28,7 @@ OSChina Gitee 同步仓库 [**Taobao**](https://gitee.com/roceys/Taobao)
 
 ## 20201026
     稳定版发布
+    更新下载方法，方便新手朋友使用
 
 ## 20201025
     支持“解锁分红”
