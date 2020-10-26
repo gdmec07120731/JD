@@ -22,6 +22,9 @@ OSChina Gitee 同步仓库 [**Taobao**](https://gitee.com/roceys/Taobao)
 
 # 更新说明
 
+## 20201026
+    稳定版发布
+
 ## 20201025
     支持“解锁分红”
     支持“收取金币”
