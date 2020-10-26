@@ -13,6 +13,8 @@ OSChina Gitee 同步仓库 [**Taobao**](https://gitee.com/roceys/Taobao)
 - [Auto.js APP 下载](https://github.com/github-h/Auto.js/releases/tag/V4.1.1.Alpha2)
 
 - 下载 **JD1111-2020.js** 文件，通过Autojs APP导入脚本即可使用
+    - Github单独js文件下载[https://github.com/roceys/JD/raw/master/JD1111-2020.js](https://github.com/roceys/JD/raw/master/JD1111-2020.js) (需要科学上网)
+    - Gitee单独js文件下载[https://gitee.com/roceys/JD/raw/master/JD1111-2020.js](https://gitee.com/roceys/JD/raw/master/JD1111-2020.js) （国内高速下载）
 
 <br>
 
